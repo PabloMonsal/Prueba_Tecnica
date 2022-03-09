@@ -10,5 +10,24 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
+/.metadata
+/.metadata/
+/.idea/
+/.recommenders/
+/target/
+Prueba_Tecnica/.project
+Prueba_Tecnica/.classpath
+Prueba_Tecnica/.class
+Prueba_Tecnica/.settings
+Prueba_Tecnica/target/
+Prueba_Tecnica/bin/
+Prueba_Tecnica/idea/
+Prueba_Tecnica/.metadata
+Prueba_Tecnica/.metadata/
+Prueba_Tecnica/*.log
+Prueba_Tecnica/.csv
+Prueba_Tecnica/Prueba_Tecnica.iml
+~$Adherencia Pasarela de pagos.xlsx
+*.DS_Store
+*.project
+*.iml
