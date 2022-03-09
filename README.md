@@ -8,32 +8,39 @@ The challenge will be to automate the consumption of some APIs and the automatio
 
 The following URL will be used:
 
-Apis:
-• URL: https://restful-booker.herokuapp.com/apidoc/index.html
+        Apis:
 
-Web:
-• URL: https://www.demoblaze.com/
+        • URL: https://restful-booker.herokuapp.com/apidoc/index.html
+
+        Web:
+
+        • URL: https://www.demoblaze.com/
 
 Carry out the scenarios and validations that you consider pertinent.
 
 Table of Contents
 
-• Prerequisites
-• Run the tests locally
+  • Prerequisites
+
+  • Run the tests locally
 
 # Prerequisites
-He project is developed in Java with Maven so it will install the following software:
+  He project is developed in Java with Maven so it will install the following software:
 
-Oracle Java 8 SDK
-Gradle
-Your favorite IDE, including :
-Intellij IDEA: To run features or scenarios tests it will configure
+  Oracle Java 8 SDK
+
+  Gradle
+
+  Your favorite IDE, including :
+  Intellij IDEA: To run features or scenarios tests it will configure
 
 # Run the tests locally
-To try to run the project:
+  To try to run the project:
 
-• Clone the project
-• Open the project in IDEA
-• In the terminal run the command
+  • Clone the project
   
-  gradle clean test aggregate
+  • Open the project in IDEA
+  
+  • In the terminal run the command
+  
+      gradle clean test aggregate
