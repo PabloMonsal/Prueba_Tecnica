@@ -33,6 +33,13 @@ Table of Contents
 
   Your favorite IDE, including :
   Intellij IDEA: To run features or scenarios tests it will configure
+  
+  Have a web browser in the following versions:
+
+        Chrome in version: 99.0.4844.51
+        Firefox in version: 98.0
+
+        If you want to run the project with firefox, in the serenity properties file uncomment the firefox "webdriver.driver" line and comment the chrome line 
 
 # Run the tests locally
   To try to run the project:
